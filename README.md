@@ -1,1 +1,1 @@
-This is a program for detection palm or head movement using opencv. The skin color is given as a HSV range and all the points of the object detected are stored in a deque.
+This notebook contains code for detecting movements of your palm or your head using computer vision. The program picks up anything it sees with the hsv range of human skin and does a tracking to record the movement. 
